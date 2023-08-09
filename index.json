@@ -1,7 +1,4 @@
 {
-  "aliases": {
-    "devcontainer": "cbk/devcontainer"
-  },
   "recipes": {
     "cbk/devcontainer": ["1.0"]
   },
