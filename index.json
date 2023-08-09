@@ -1,0 +1,16 @@
+{
+  "aliases": {
+    "devcontainer": "cbk/devcontainer"
+  },
+  "recipes": {
+    "cbk/devcontainer": ["1.0"]
+  },
+  "versions": [],
+  "branch": "main",
+  "is_contrib": true,
+  "_links": {
+    "repository": "github.com/codeblick/recipes",
+    "origin_template": "{package}:{version}@github.com/codeblick/recipes:main",
+    "recipe_template": "https://api.github.com/repos/codeblick/recipes/contents/{package_dotted}.{version}.json"
+  }
+}
