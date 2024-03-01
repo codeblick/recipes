@@ -1,0 +1,13 @@
+{
+  "manifests": {
+    "symfony/ux-twig-component": {
+      "manifest": {
+        "copy-from-recipe": {
+          "root/": ""
+        }
+      },
+      "files": {},
+      "ref": "b52d09b8bd9153310c5ca6a98858fae4432bc0aa"
+    }
+  }
+}

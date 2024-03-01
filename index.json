@@ -1,10 +1,16 @@
 {
+  "aliases": {
+    "ux-twig-component": "symfony/ux-twig-component",
+    "uxtwigcomponent": "symfony/ux-twig-component"
+  },
   "recipes": {
-    "cbk/devcontainer": ["1.0"]
+    "symfony/ux-twig-component": [
+      "2.13"
+    ]
   },
   "versions": [],
   "branch": "main",
-  "is_contrib": true,
+  "is_contrib": false,
   "_links": {
     "repository": "github.com/codeblick/recipes",
     "origin_template": "{package}:{version}@github.com/codeblick/recipes:main",
